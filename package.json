@@ -59,7 +59,7 @@
     "param-case": "^2.1.0",
     "pascal-case": "^2.0.0",
     "raml-1-parser": "^1.1.13",
-    "raml-generator": "git+https://github.com/FluentDevelopment/raml-generator.git"
+    "raml-generator": "git+https://github.com/FluentDevelopment/raml-generator.git",
     "strands": "^1.0.1",
     "uniqueid": "^1.0.0",
     "xtend": "^4.0.1"
